@@ -1,0 +1,12 @@
+{author, {"gray", "graygee@gmail.com", {2007, 10, 3}}}.
+{category, ["type"]}.
+{name, "bloom"}.
+{vsn, "0.01"}.
+{depends, []}.
+{keywords, ["bloomfilter", "bloom", "filter", "digest", "hash"]}.
+{summary, "Bloom filters"}.
+{abstract, "Implements the Bloom filter probabilistic data structure. "
+"Bloom filters are a space-efficient means to test whether an elements is a "
+"member of a set."}.
+{home, "http://code.google.com/p/bloomerl/"}.
+{source, {erl, "http://bloomerl.googlecode.com/svn/trunk/bloom.erl"}}.
